@@ -1,0 +1,14 @@
+{
+	"adduser":{
+		"accountno": "TA-1123423"
+		 "departmentno": "6"
+		  "salary": "54653"
+		   "pincode":  "254037"
+	},
+	"updateuser":{
+		"accountno": "TA-6666666"
+		 "departmentno": 6
+		  "salary": 666668
+		   "pincode": 666666
+	}
+}
